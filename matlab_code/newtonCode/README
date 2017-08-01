@@ -1,0 +1,12 @@
+
+runEqSolve.m: DEMO for equation solver
+
+runOptimization.m: Demo for unconstrained optimization
+
+testNewton.m: Newton's method implemented.
+
+f1.m: The function on which we run Newton's method.
+
+rosenbrockDfDDf.m: the gradient and Hessian for Rosenbrock function
+
+rosenbrock.m: the Rosenbrock function 
